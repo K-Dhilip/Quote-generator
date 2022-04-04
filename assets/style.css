@@ -1,7 +1,9 @@
 .container{
-    margin: 0 auto;
-}
+display: flex;
+justify-content: center;
+align-items: center;}
 
 #output{
     background-color: aqua;
+    width: 400px;
 }
