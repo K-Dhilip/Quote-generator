@@ -6,7 +6,7 @@ flex-direction: column;
 }
 
 #output{
-    background-color: aqua;
+    background-color: rgb(176, 255, 255);
     width: 400px;
     padding: 40px;
     height: 200px;
