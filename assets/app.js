@@ -10,3 +10,7 @@ function display(){
  document.getElementById('output').innerHTML=generate;
 
 }
+
+function save(){
+document.getElementById('savedq').innerHTML= display(   ) ;
+}

@@ -1,9 +1,14 @@
 .container{
 display: flex;
 justify-content: center;
-align-items: center;}
+align-items: center;
+flex-direction: column;
+}
 
 #output{
     background-color: aqua;
     width: 400px;
+    padding: 40px;
+    height: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
